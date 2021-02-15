@@ -1,8 +1,8 @@
 # ray-tracer
 
-A basic ray tracer.
-
-I generate an image in the [Netbpm](https://en.wikipedia.org/wiki/Netpbm) format.
+I'm using this project to learn some 3D math and use multithreading and
+vectorisation to improve performance. Images are generated using the
+[Netbpm](https://en.wikipedia.org/wiki/Netpbm) format.
 
 ## Building
 
